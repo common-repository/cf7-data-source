@@ -1,0 +1,867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cf7-datasource\n"
+"POT-Creation-Date: 2024-10-26 02:31+0200\n"
+"PO-Revision-Date: 2024-10-26 02:31+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_attr_e;esc_attr_;"
+"esc_attr__;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../add-ons/base/cf7-addons.parent.php:80
+msgid "- Select field -"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:137
+msgid "Settings"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:138
+msgid "Delete"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:146
+msgid "Empty list"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:153
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:164
+#: ../admin/cf7-datasource-editor.php:108
+msgid "Id"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:154
+msgid "Form title"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:155
+msgid "Actions"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:166
+msgid "Add Integration"
+msgstr ""
+
+#: ../add-ons/base/cf7-addons.parent.php:181
+msgid "Are you sure to delete the integration?"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon.php:95
+msgid "Additional details"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon.php:112
+msgid "Enable Control"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon.php:116
+msgid "Disable Control"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/copy-to-clipboard.php:12
+msgid ""
+"Adds the copy to clipboard behavior to text fields and textareas.<br>After "
+"enabling Copy to Clipboard, assign the <b><i>clipboard</i></b> class name to "
+"the text and textarea fields where to apply the control.<br>Ex. [text my-"
+"field class:<b>clipboard</b>]"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/copy-to-clipboard.php:25
+msgid "copied"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:12
+msgid "Interactive table to display the record-set records."
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:106
+msgid "Data Table"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:114
+msgid "Generate a data-table with record-set records. For more details, see"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:116
+msgid "Data table"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:169
+msgid "Recordset field"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:177
+msgid "Data table columns"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:180
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:181
+msgid "column title|record attribute"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:184
+msgid ""
+"One pair <b>column title|record attribute</b> per line.<br>Use <b>| symbol</"
+"b> as separartor between column title and record attribute."
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:187
+msgid "Auto width columns"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:189
+msgid "Multipage table"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:191
+msgid ""
+"When pagination is enabled, display option to change the number of records "
+"per page"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:193
+msgid "Enable ordering of columns"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:195
+msgid "Show horizontal scrolling in too wide tables"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:197
+msgid "Table height, numbers only (optional)"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:200
+msgid "Include search box control in the table"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:203
+msgid "URL to a JSON language file (optional)"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:205
+msgid "Language files"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:213
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:91
+msgid "Class attribute"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/data-table.php:225
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:103
+#: ../admin/cf7-datasource-editor.php:170
+#: ../admin/cf7-datasource-editor.php:273
+msgid "Insert Tag"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:12
+msgid ""
+"It enables a form print button. Button control to print only the form area."
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:38
+msgid "Print"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:60
+msgid "print form button"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:69
+msgid "Generate a form-tag for a print form button. For more details, see"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:71
+msgid "Print form button"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:81
+msgid "Label"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/print-form-button.php:86
+msgid "Id attribute"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/select2-drop-down-menu.php:12
+msgid ""
+"Allows you to convert drop-down menus into advanced controls with search "
+"boxes."
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/select2-drop-down-menu.php:63
+msgid "drop-down menu"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/select2-drop-down-menu.php:77
+msgid "DropDown menu with search box"
+msgstr ""
+
+#: ../add-ons/complementary-controls.addon/controls/select2-drop-down-menu.php:77
+msgid "For more details, see"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:39
+msgid "Insert & open dialog"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:40
+msgid "Insert the recordset tag and open the field-link dialog"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:41
+msgid "Insert only"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:42
+msgid "Insert the recordset tag"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:54
+msgid ""
+"The <b>recordset</b> and <b>recordset field link</b> controls allow filling "
+"the form fields with data store in external data sources (user information, "
+"post data, taxonomies, Advanced Custom Fields (ACF), database, CSV file, "
+"JSON, Server Side functions). Learn their use with <b><a href=\"https://cf7-"
+"datasource.dwbooster.com/examples\" target=\"_blank\">Practical Examples</"
+"a></b>."
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:67
+msgid "recordset"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:73
+msgid "recordset field link"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:85
+msgid "Video Tutorial"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:85
+msgid ""
+"Generate a form-tag for a Recordset Field to read data from sources like "
+"user data, posts, taxonomies, and databases. <b><i>(Pro version supports "
+"ACF, CSV, server-side functions, and JSON files)</i></b>"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:88 ../admin/cf7-datasource-editor.php:194
+msgid "Do you have a question?"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:96
+msgid ""
+"Upgrade to the <a href=\"https://cf7-datasource.dwbooster.com/download\" "
+"target=\"_blank\"><b>Professional version of the plugin</b></a> to get "
+"access to advanced data sources. <a href=\"https://cf7-datasource.dwbooster."
+"com/download\" target=\"_blank\"><b>CLICK HERE</b></a>."
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:99
+msgid ""
+"To try the premium data sources, visit the links: <a href=\"https://demos."
+"dwbooster.com/cf7-datasource/wp-login.php\" target=\"_blank\">WordPress "
+"area</a>, and <a href=\"https://demos.dwbooster.com/cf7-datasource/\" "
+"target=\"_blank\">public website</a>"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:110
+msgid "Field id"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:114
+#: ../admin/cf7-datasource-editor.php:116
+msgid "Data source"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:120
+msgid "Professional version"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:121
+msgid "Advanced Custom Fields (ACF)"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:122
+msgid "Server Side functions"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:123
+msgid "Load CSV file"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:124
+msgid "Load JSON file"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:134
+#: ../admin/cf7-datasource-editor.php:136
+msgid "Callback"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:138
+msgid ""
+"Name of javascript function to call after receiving the data source data. "
+"The resulting records are assigned to the Recordset."
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:143
+#: ../admin/cf7-datasource-editor.php:145
+msgid "Debugging"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:147
+msgid ""
+"If the checkbox is ticked the plugin registers the errors in the error_logs "
+"file"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:157
+msgid "I want to receive the error logs via email"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:158
+msgid "debugging email"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:191
+msgid ""
+"Generate a form-tag to link a Recordset field with another field in the form "
+"to populate it with data read from a data source, like the users data, posts "
+"information, taxonomies, databases, CSV files, Advanced Custom Fields (ACF), "
+"Server Side functions, and JSON files"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:201
+#: ../admin/cf7-datasource-editor.php:203
+msgid "Id of recordset field"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:206
+msgid "Enter the id of a recordset field in the form"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:210
+#: ../admin/cf7-datasource-editor.php:212
+msgid "Field name"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:215
+msgid "Enter the name of the field to populate"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:216
+msgid ""
+"For drop-down menus, checkboxes, and radio buttons keep existing options"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:220
+#: ../admin/cf7-datasource-editor.php:222
+msgid "Attribute for value"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:223
+msgid "Ex. post_title for post title, or user_email for the email of the user"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:227
+#: ../admin/cf7-datasource-editor.php:229
+msgid "Attribute for text"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:230
+msgid ""
+"Use it with drop-down menu fields, checkbox and radio buttons. Ex. post_title"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:234
+#: ../admin/cf7-datasource-editor.php:236
+msgid "Other attributes"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:237
+msgid "attribute_name={record_property}"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:241
+#: ../admin/cf7-datasource-editor.php:243
+#: ../datasources/cf7-datasource-basic.php:140
+#: ../datasources/cf7-datasource-basic.php:142
+#: ../datasources/cf7-datasource-basic.php:175
+#: ../datasources/cf7-datasource-basic.php:177
+#: ../datasources/cf7-datasource-basic.php:223
+#: ../datasources/cf7-datasource-basic.php:225
+msgid "Condition for filtering"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:244
+msgid ""
+"Condition for filtering the record to use to populate the field from the "
+"recordset field. Ex. record['user_email']=='{field.user-email}'"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:248
+#: ../admin/cf7-datasource-editor.php:250
+msgid "Limit"
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:251
+msgid ""
+"Number of records. According to the linked field, the default value can be "
+"one record or any record."
+msgstr ""
+
+#: ../admin/cf7-datasource-editor.php:259
+#: ../datasources/cf7-datasource-basic.php:118
+#: ../datasources/cf7-datasource-basic.php:159
+#: ../datasources/cf7-datasource-basic.php:200
+#: ../datasources/cf7-datasource-basic.php:251
+#: ../datasources/cf7-datasource-basic.php:378
+msgid "Data surce HELP"
+msgstr ""
+
+#: ../cf7-datasource.php:304
+msgid "Data Source for Contact Form 7 - Debugging Email"
+msgstr ""
+
+#: ../cf7-datasource.php:326 ../cf7-datasource.php:327
+#: ../cf7-datasource.php:338
+msgid "Extensions"
+msgstr ""
+
+#: ../cf7-datasource.php:350
+msgid "<< Returns to the add-ons list"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:66
+msgid "URL Parameters"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:67
+msgid "Users information"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:68
+msgid "Read data from database"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:69
+msgid "Posts data (posts, pages, products, custom post types)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:70
+msgid "Taxonomies (categories, posts tags, custom taxonomies)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:71
+msgid "Javascript function"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:117
+msgid "Creates a record with the URL parameters as its properties."
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:124
+msgid "User data separated by comma"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:126
+msgid "User data"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:134
+msgid "Get data of logged user"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:136
+msgid "For logged user"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:147
+#: ../datasources/cf7-datasource-basic.php:149
+#: ../datasources/cf7-datasource-basic.php:183
+#: ../datasources/cf7-datasource-basic.php:185
+#: ../datasources/cf7-datasource-basic.php:230
+#: ../datasources/cf7-datasource-basic.php:232
+msgid "Order by"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:157
+#: ../datasources/cf7-datasource-basic.php:179
+#: ../datasources/cf7-datasource-basic.php:249
+#: ../datasources/cf7-datasource-basic.php:376
+msgid "Constants"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:158
+#: ../datasources/cf7-datasource-basic.php:199
+#: ../datasources/cf7-datasource-basic.php:250
+#: ../datasources/cf7-datasource-basic.php:377
+msgid "Test data source"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:165
+msgid "Post data separated by comma"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:167
+msgid "Post data"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:193
+msgid "Current post"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:193
+msgid "Current post/page (where the form is inserted)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:206
+#: ../datasources/cf7-datasource-basic.php:208
+msgid "Taxonomy name"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:216
+msgid "Terms data separated by comma"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:218
+msgid "Terms data"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:240
+#: ../datasources/cf7-datasource-basic.php:242
+msgid "In pages/posts"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:257
+msgid "Database connection"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:259
+msgid "Current website database"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:260
+msgid "Connection components"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:261
+#: ../datasources/cf7-datasource-basic.php:272
+#: ../datasources/cf7-datasource-basic.php:274
+msgid "DNS"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:262
+msgid "Get demos +"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:268
+msgid ""
+"To read data from the current website database, leave the connection data "
+"blank"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:278
+#: ../datasources/cf7-datasource-basic.php:280
+msgid "Engine"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:284
+#: ../datasources/cf7-datasource-basic.php:286
+msgid "Hostname"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:290
+#: ../datasources/cf7-datasource-basic.php:292
+msgid "Database name"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:296
+#: ../datasources/cf7-datasource-basic.php:298
+msgid "Database username"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:302
+#: ../datasources/cf7-datasource-basic.php:304
+msgid "Database password"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:309
+msgid "Enter Query"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:310
+msgid "- or - select a predefined one"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:313
+msgid "Query"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:318
+msgid "Predefined queries"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:322
+msgid "User-related queries"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:323
+msgid ""
+"Returns the list of users records with five properties (id, username, email, "
+"first_name, last_name)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:323
+msgid "Users Names and Emails"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:325
+msgid ""
+"Returns the list of users records with four properties (id, username, email, "
+"display_name). Replace the the-role text in the query with the role name for "
+"filtering"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:325
+msgid "User by Role"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:327
+msgid ""
+"Returns the list of user's metadata based on user's ID. Returns a list of "
+"records with two properties (metadata, value). Replace the \"the-user-id\" "
+"in the query with user's ID for filtering"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:327
+msgid "User metadata by ID"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:329
+msgid ""
+"Returns the list of published posts by the author ID. Each record contains "
+"four properties (post_id, post_title, post_excerpt, post_url). Replace the "
+"\"the-user-id\" in the query with user's ID for filtering"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:329
+msgid "Published posts by author ID"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:331
+msgid ""
+"Returns the list of approved comments by the author name. Each record "
+"contains five properties (comment_content, comment_date, post_id, "
+"post_title, post_url). Replace the \"author-name\" in the query with "
+"corresponding author name for filtering the comments"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:331
+msgid "Approved comments by author name"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:334
+msgid "Posts and comments related queries"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:335
+msgid ""
+"Returns the list of published posts and their authors records with six "
+"properties (post_id, post_title, post_excerpt, post_url, author_id, "
+"author_name)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:335
+msgid "Posts and Authors"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:337
+msgid ""
+"Returns the list of scheduled posts sorted by date. Records with six "
+"properties (post_id, post_title, post_type, post_excerpt, post_url, "
+"post_date)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:337
+msgid "Scheduled Posts"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:339
+msgid ""
+"Retrieves a list of published posts and pages that contain specific text in "
+"their titles. Records with four properties (post_id, post_title, "
+"post_excerpt, post_url). Replace the search-term text in the query with the "
+"text to search in the titles of posts and pages."
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:339
+msgid "List of published pages and posts with specific text in their titles"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:341
+msgid ""
+"Retrieves a list of published posts and pages that contain specific text in "
+"their contents. Records with four properties (post_id, post_title, "
+"post_excerpt, post_url). Replace the search-term text in the query with the "
+"text to search in the contents of posts and pages."
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:341
+msgid "List of published pages and posts with specific text in their contents"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:343
+msgid ""
+"Returns the list of approved comments and their authors. The records "
+"contains six properties (comment_content, comment_author, comment_date, "
+"post_id, post_title, post_url)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:343
+msgid "Comments and Authors"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:345
+msgid ""
+"Returns the list of posts associated with a tag. Replace the \"your-tag-"
+"slug\" text in the query with the tag slug"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:345
+msgid "Posts by Tag"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:347
+msgid ""
+"Returns the list of posts associated with a category. Replace the \"your-tag-"
+"slug\" text in the query with the category term slug"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:347
+msgid "Posts by Category"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:349
+msgid ""
+"Returns the list of posts associated with a custom taxonomy terms. Replace "
+"the \"your-taxonomy-name\" and \"your-term-slug\" texts in the query with "
+"the taxonomy name and its term slug"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:349
+msgid "Posts by Custom Taxonomy Term"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:353
+msgid "WooCommerce-related queries"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:354
+msgid "Returns the list of products records with two properties (id, title)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:354
+msgid "WooCommerce Products"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:356
+msgid ""
+"Returns the list of products purchased by the registered user (id, url, "
+"title, excerpt, content)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:356
+msgid "WC Purchases By Registered User"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:358
+msgid ""
+"Returns the list of products purchased with total revenue per product "
+"(product_id, product_name, revenue)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:358
+msgid "WC Purchased Products and Total Revenue per Product"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:360
+msgid ""
+"Returns the list of billing address components (billing_first_name, "
+"billing_last_name, billing_company, billing_address_1, billing_address_2, "
+"billing_city, billing_state, billing_postcode, billing_country)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:360
+msgid "WC Billing Addresses"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:363
+msgid "Easy Digital Downloads-related queries"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:364
+msgid "Returns the list of downloads records with two properties (id, title)"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:364
+msgid "EDD Downloads"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:367
+msgid "Use It"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:384
+msgid "Javascript function name"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:386
+msgid "Function name"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:390
+#: ../datasources/cf7-datasource-basic.php:392
+msgid "Parameters"
+msgstr ""
+
+#: ../datasources/cf7-datasource-basic.php:393
+msgid ""
+"direct values as parameters, like texts or numbers, use the structure {value."
+"text or number}"
+msgstr ""
+
+#: ../includes/cf7-datasource-addons.inc.php:39
+msgid "Free add-ons"
+msgstr ""
+
+#: ../includes/cf7-datasource-addons.inc.php:40
+msgid "Commercial add-ons"
+msgstr ""
+
+#: ../includes/cf7-datasource-addons.inc.php:57
+msgid "Only available with the Professional version of the plugin"
+msgstr ""
+
+#: ../includes/cf7-datasource-addons.inc.php:65
+msgid "Let's go!"
+msgstr ""
+
+#: ../includes/cf7-datasource-addons.inc.php:66
+msgid "Upgrade"
+msgstr ""
+
+#: ../includes/cf7-datasource-addons.inc.php:68
+msgid "View details"
+msgstr ""
